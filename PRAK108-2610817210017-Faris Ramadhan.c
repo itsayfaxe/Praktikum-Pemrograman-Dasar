@@ -11,7 +11,7 @@ int putaran = 5, jarak_tempuh = 14;
     printf("Jawaban:\n");
     float keliling = (float)jarak_tempuh / putaran;
     float jari_jari = keliling / (2 * M_PI);
-    printf("Jari-jari taman yang dikelilingi Pak Dengklek adalah %.2f\n", jari_jari);
+    printf("Jari-jari taman yang dikelilingi Pak Dengklek adalah %.2f Kilometer\n", jari_jari);
 
     return 0;
 }
