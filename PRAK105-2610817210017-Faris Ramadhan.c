@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-int main (){
+int main()
+{
     int a = 9, b = 5, x = 8, y = 8;
     printf("Variabel a bernilai %d\n", a);
     printf("Variabel b bernilai %d\n", b);

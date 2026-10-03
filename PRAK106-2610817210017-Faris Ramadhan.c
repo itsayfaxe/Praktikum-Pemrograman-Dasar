@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-int main () {
+int main()
+{
     int a = 4, b = 8, c = 3;
 
     printf("Variabel a bernilai %d\n", a);
@@ -11,5 +12,3 @@ int main () {
     printf("Apakah a tidak sama dengan c ? jawabannya adalah %d\n", a != c);
     return 0;
 }
-    
-

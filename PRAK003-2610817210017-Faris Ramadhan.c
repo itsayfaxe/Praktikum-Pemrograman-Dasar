@@ -1,6 +1,7 @@
 #include <stdio.h>
-int main() {
+int main()
+{
     printf("Andi Berkata \"Saya Pasti Bisa\"\n");
-    
+
     return 0;
 }

@@ -1,8 +1,9 @@
 #include <stdio.h>
 #include <math.h>
 
-int main () {
-int putaran = 5, jarak_tempuh = 14;
+int main()
+{
+    int putaran = 5, jarak_tempuh = 14;
 
     printf("Diketahui:\n");
     printf("Pak Dengklek mengelilingi taman = %d Putaran\n", putaran);
